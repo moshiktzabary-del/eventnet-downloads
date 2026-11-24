@@ -1,0 +1,6 @@
+{
+  "version": "2026.11.24",
+  "zip": "https://github.com/moshiktzabary-del/eventnet-downloads/releases/download/v2026.11.24/EventNet.zip",
+  "sha256": "9f5eac585610e732d099a8a1b3bac44ae39dfb13e2298b26eb89cb78b7fea2a7",
+  "notes": "EventNet 2026.11.24: first beta. Menu-bar app, device addresses over SSH, license by email code."
+}
